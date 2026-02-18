@@ -1,6 +1,6 @@
 {
   "name": "@tapir19/contracts",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Protobufs definitions and generated TypeScript types",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
