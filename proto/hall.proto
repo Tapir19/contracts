@@ -21,7 +21,7 @@ message GetHallRequest {
 }
 
 message GetHallResponse {
-    Hall halls = 1;
+    Hall hall = 1;
 }
 
 message CreateHallRequest {
