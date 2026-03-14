@@ -37,7 +37,7 @@ message SeatInput {
 }
 
 message ConfirmBookingRequest {
-    string order_id = 1;
+    string booking_id = 1;
     string user_id = 2;
 }
 
